@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBotIPAddress(DHXADLERTESH)", "FindBotIPAddress(DHXADLERTESH)\FindBotIPAddress(DHXADLERTESH).csproj", "{E866C41E-13F4-4944-9F8E-E3BFE53390BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOTIP.Services", "BOTIP.Services\BOTIP.Services.csproj", "{2F064F8F-E33C-487A-B7F4-16DD9984FFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOTIP.Model", "BOTIP.Model\BOTIP.Model.csproj", "{264AFDBA-25FA-4598-A107-FDE383B1C181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOTIP.API.Test", "BOTIP.API.Test\BOTIP.API.Test.csproj", "{BF7F4B77-21B9-4E78-8CB6-588386401991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Test", "Service.Test\Service.Test.csproj", "{327AEF40-428B-465B-BA98-7380A01FB273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E866C41E-13F4-4944-9F8E-E3BFE53390BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E866C41E-13F4-4944-9F8E-E3BFE53390BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E866C41E-13F4-4944-9F8E-E3BFE53390BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E866C41E-13F4-4944-9F8E-E3BFE53390BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F064F8F-E33C-487A-B7F4-16DD9984FFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F064F8F-E33C-487A-B7F4-16DD9984FFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F064F8F-E33C-487A-B7F4-16DD9984FFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F064F8F-E33C-487A-B7F4-16DD9984FFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264AFDBA-25FA-4598-A107-FDE383B1C181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264AFDBA-25FA-4598-A107-FDE383B1C181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264AFDBA-25FA-4598-A107-FDE383B1C181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264AFDBA-25FA-4598-A107-FDE383B1C181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7F4B77-21B9-4E78-8CB6-588386401991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7F4B77-21B9-4E78-8CB6-588386401991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7F4B77-21B9-4E78-8CB6-588386401991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7F4B77-21B9-4E78-8CB6-588386401991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327AEF40-428B-465B-BA98-7380A01FB273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327AEF40-428B-465B-BA98-7380A01FB273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327AEF40-428B-465B-BA98-7380A01FB273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327AEF40-428B-465B-BA98-7380A01FB273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933D3C51-3EEF-45CE-AF2C-989CDC778CFE}
+	EndGlobalSection
+EndGlobal
